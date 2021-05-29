@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Osadchii Anton
-- 👀 I’m interested in .Net, Asp.Net
-- 🌱 I’m currently learning .Net :)
+Hi! I'm Osadchii Anton from Moscow. I'm software engineer since 2014. 
 
 <!---
 osadchii/osadchii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
