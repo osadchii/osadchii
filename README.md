@@ -1,4 +1,6 @@
-Hi! I'm Osadchii Anton from Moscow. I'm software engineer since 2014. 
+Hi! I'm Osadchii Anton from Moscow.
+
+I'm software engineer since 2014.
 
 <!---
 osadchii/osadchii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
